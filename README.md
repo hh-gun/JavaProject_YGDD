@@ -1,4 +1,5 @@
-# YGDD – Java Console Project
+# YGDD
+## Java Console Project
 
 ## 프로젝트 소개
 가맹점과 소비자를 대상으로 한 배달 서비스 시스템을 자바 콘솔 기반으로 구현한 프로그램입니다. 
@@ -7,5 +8,5 @@
 ## 기술 스택
 Java
 
-## Google Drive
+### Google Drive
 https://drive.google.com/drive/folders/1ZPYN3IgMwcjFdy2XhfNMXKj09ADMuyHh?usp=sharing
